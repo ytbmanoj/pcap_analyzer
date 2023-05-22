@@ -1,0 +1,7 @@
+pyshark
+fastapi
+uvicorn
+python-multipart
+python-nmap
+nest-asyncio
+requests
